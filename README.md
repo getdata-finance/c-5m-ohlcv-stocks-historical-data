@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `5m` sample updated in sync
 
-> **Sample on GitHub** · `C_5m.csv` (11,088 rows, `2026-02-06` -> `2026-09-01`, 1.09 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/c)** — **105,410** `5m` rows (full `1m`: 526,800), **11 timeframes**, `2021-04-06` -> `2026-09-01`.
+> **Sample on GitHub** · `C_5m.csv` (11,088 rows, `2026-02-06` -> `2026-09-01`, 1.09 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/c)** — **105,410** `5m` rows (full `1m`: 526,299), **11 timeframes**, `2021-04-06` -> `2026-09-01`.
 
 ## Download sample
 
